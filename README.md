@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TiagoPS2, I'm 20 years old
 - 👀 I’m interested in game production.
-- 🌱 I’m currently learning web development(HTML/ CSS3) and javascript programming.
+- 🌱 I’m currently learning web development, JavaScript programming and Game Dev.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/tiago-santos-433083229/
 
