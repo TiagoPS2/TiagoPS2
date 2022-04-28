@@ -3,11 +3,6 @@
 - 🌱 I’m currently learning Web Development, JavaScript Programming, Game Dev and Dev Dart.
 
 
-<!---
-TiagoPS2/TiagoPS2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 ### Find & follow me here 😉
 
 [<img align="left" alt="Website" width="22px" src="images/earth.png">]()
