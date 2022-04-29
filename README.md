@@ -1,12 +1,21 @@
-- 👋 Hi, I’m @TiagoPS2, I'm 20 years old
-- 👀 I’m interested in game production.
-- 🌱 I’m currently learning Web Development, JavaScript Programming, Game Dev and Dev Dart.
+## :man_technologist:  Olá, meu nome é: Tiago Santos
+### Sou estudante de:
+ - Web Development, JavaScript Programming, Game Dev and Dev Dart.
+ 
+![Github JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black)
+![Github Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white)
+![Github css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white)
+![Github python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&amp;logo=python&amp;logoColor=white)
 
+### Minhas redes sociais:
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/tiago-santos-433083229/)](https://www.linkedin.com/in/tiago-santos-433083229/)
 
-### Find & follow me here 😉
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;link=https://github.com/TiagoPS2)](https://github.com/TiagoPS2)
 
-[<img align="left" alt="Website" width="22px" src="images/earth.png">]()
-[<img align="left" alt="LinkedIn" width="22px" src="images/linkedin.png">](https://www.linkedin.com/in/tiago-santos-433083229/)
-[<img align="left" alt="Email" width="22px" src="images/mail.png">](mailto:tiagopáula159753@gmail.com)
-[<img align="left" alt="Instagram" width="22px" src="images/instagram.png">](https://www.instagram.com/tiagops.sw/)
-[<img align="left" alt="Twitter" width="22px" src="images/twitter.png">](https://twitter.com/TiagoSantos0071)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white&amp;link=https://www.facebook.com/profile.php?id=100010771480455)](https://www.facebook.com/profile.php?id=100010771480455)
+
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white&amp;link=https://www.instagram.com/tiagops.sw/)](https://www.instagram.com/tiagops.sw/)
+
+### Minhas informações aqui no GitHub:
+
+![Status](https://github-readme-stats.vercel.app/api?username=TiagoPS2) [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoPS2&amp;layout=compact)](https://github.com/TiagoPS2)
