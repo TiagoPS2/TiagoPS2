@@ -12,7 +12,7 @@
 
 ### Minhas redes sociais:
 
-<a href = "https://www.linkedin.com/in/tiago-santos-433083229/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"  width="50" height="50"/>&nbsp; &nbsp;
+<a href = "https://www.linkedin.com/in/tiagops2/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"  width="50" height="50"/>&nbsp; &nbsp;
 <a href = "https://github.com/TiagoPS2/" target="_blank"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg"  width="50" height="50"/>&nbsp; &nbsp;
 <a href = "https://www.facebook.com/profile.php?id=100010771480455" target="_blank"> <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg"  width="50" height="50"/>&nbsp; &nbsp;
 <a href = "https://www.instagram.com/tiagops.sw/" target="_blank"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"  width="50" height="50"/> 
